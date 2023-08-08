@@ -4,6 +4,9 @@
 - Lib Flex
 - C
 
+## Clonar
+git clone https://github.com/helxysa/AnalisadorLexico
+
 ## Como iniciar projeto Windows
 Obs: Necessario o MinGW
 ### 1
