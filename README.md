@@ -1,5 +1,8 @@
 # AnalisadorLexico
 
+###
+Compilador feito em C: https://github.com/helxysa/Compilador
+
 ## Tecnologias
 - Lib Flex
 - C
