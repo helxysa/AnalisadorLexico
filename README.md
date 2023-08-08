@@ -16,7 +16,7 @@ Executar o comando gcc lex.yy.c -o analisador -lfl
 ### 3
 Executar ./analisador
 
-## Como iniciar projeto lINUX
+## Como iniciar projeto LINUX
 Obs: necessario instalar o flex
 
 ### Instalação do flex no Linux
